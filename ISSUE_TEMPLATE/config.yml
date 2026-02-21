@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security Vulnerability
+    url: https://github.com/lydianai/borsa/security/advisories/new
+    about: Report security issues privately (DO NOT open a public issue)
+  - name: General Questions
+    url: mailto:sardagemrah@gmail.com
+    about: For general questions that are not bugs or feature requests
