@@ -1,8 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Security Vulnerability
-    url: https://github.com/lydianai/borsa/security/advisories/new
-    about: Report security issues privately (DO NOT open a public issue)
-  - name: General Questions
-    url: mailto:sardagemrah@gmail.com
-    about: For general questions that are not bugs or feature requests
+    url: https://github.com/lydianai/.github/security/advisories/new
+    about: Report security issues privately via GitHub Private Vulnerability Reporting
+  - name: General Questions & Support
+    url: mailto:info@ailydian.com
+    about: For general questions, enterprise inquiries, or partnership requests
+  - name: Security Email
+    url: mailto:security@ailydian.com
+    about: For critical security issues requiring immediate attention
