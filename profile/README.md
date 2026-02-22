@@ -15,7 +15,7 @@
 
 ### About
 
-AiLydian builds production-grade intelligent platforms across healthcare, finance, government, travel, agriculture, automotive, legal, and gaming verticals. All platforms are open-source under MIT license.
+AiLydian builds production-grade intelligent platforms across healthcare, finance, government, travel, agriculture, automotive, legal, and gaming verticals. Production-grade intelligent platforms across 8 industry verticals. LyTrade Scanner is open-source (MIT).
 
 ---
 
